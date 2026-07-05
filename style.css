@@ -110,6 +110,16 @@ body{
     font-size: 24px;
 }
 
+label{
+    font-size: 22px;
+}
+
+.checkbox{
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+}
+
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha{
         flex-direction: row;
