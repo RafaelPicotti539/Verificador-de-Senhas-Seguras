@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
 
 :root{
     --branco: white;
@@ -6,8 +6,8 @@
     --fundo-senha: #27292c;
     --fundo-texto: #313632;
     --borda: #28A745;
-    --roboto: 'Roboto', sans-serif;
-    --roboto-mono: 'Roboto Mono', monospace;
+    --roboto: 'Outfit', sans-serif;
+    --roboto-mono: 'Noto Sans', sans-serif;
 }
 
 *{
